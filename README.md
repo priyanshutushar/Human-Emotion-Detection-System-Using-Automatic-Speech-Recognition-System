@@ -4,8 +4,7 @@ It is a GUI based application in which speech input is given and from that text 
 
 This is our welcome screen
 
-![1](https://user-images.githubusercontent.com/50975565/172564469-365eb74b-f3e7-4317-815e-7a209b218952.png)
-
+![1](https://user-images.githubusercontent.com/50975565/172565018-8b6f5ac4-c1bb-4043-9596-184e2f5f2b10.png)
 
 User clicks on **“Start Listening”** button to speak some sentences such as if we speak **“I have seen a snake entering into my house”** so it will first get display as text.
 
