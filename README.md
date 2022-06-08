@@ -4,9 +4,19 @@ It is a GUI based application in which speech input is given and from that text 
 
 This is our welcome screen
 
+![1](https://user-images.githubusercontent.com/50975565/172564469-365eb74b-f3e7-4317-815e-7a209b218952.png)
 
-User clicks on “Start Listening” button to speak some sentences such as if we speak “I have seen a snake entering into my house” so it will first get display as text.
+
+User clicks on **“Start Listening”** button to speak some sentences such as if we speak **“I have seen a snake entering into my house”** so it will first get display as text.
+
 ![image](https://user-images.githubusercontent.com/50975565/172563119-b4fc7f98-79c1-41ee-b85f-1133d411aa3d.png)
+
+![3](https://user-images.githubusercontent.com/50975565/172564627-aaeb5d5b-5aa0-48dc-a631-4407d7b3fe9a.png)
+
+After analyzing the text, it gives emotion as **"Fear"**
+
+![4](https://user-images.githubusercontent.com/50975565/172564676-f9e26163-e01f-4858-9527-c2a4f55bae0f.png)
+
 
 
 
